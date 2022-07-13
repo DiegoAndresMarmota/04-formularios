@@ -51,6 +51,18 @@
   color: white;
 }
 
+.label-green{
+  background-color: green;
+  color: white;
+}
+
+.label-gray{
+  background-color: #ccc;
+  border: 1px solid #444;
+  color: #444;
+  padding: 10px;
+}
+
 form input [type="text"],
 form input [type="text"],
 form textarea{
